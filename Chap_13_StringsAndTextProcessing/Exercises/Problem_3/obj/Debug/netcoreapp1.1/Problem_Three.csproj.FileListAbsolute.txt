@@ -1,0 +1,8 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\bin\Debug\netcoreapp1.1\Problem_Three.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\bin\Debug\netcoreapp1.1\Problem_Three.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\bin\Debug\netcoreapp1.1\Problem_Three.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\bin\Debug\netcoreapp1.1\Problem_Three.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\bin\Debug\netcoreapp1.1\Problem_Three.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\obj\Debug\netcoreapp1.1\Problem_Three.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\obj\Debug\netcoreapp1.1\Problem_Three.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Three\obj\Debug\netcoreapp1.1\Problem_Three.pdb

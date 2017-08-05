@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\bin\Debug\netcoreapp1.1\2_LinkedList.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\bin\Debug\netcoreapp1.1\2_LinkedList.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\bin\Debug\netcoreapp1.1\2_LinkedList.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\bin\Debug\netcoreapp1.1\2_LinkedList.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\bin\Debug\netcoreapp1.1\2_LinkedList.pdb
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\obj\Debug\netcoreapp1.1\2_LinkedList.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\obj\Debug\netcoreapp1.1\2_LinkedList.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\obj\Debug\netcoreapp1.1\2_LinkedList.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\2_LinkedList\obj\Debug\netcoreapp1.1\2_LinkedList.pdb

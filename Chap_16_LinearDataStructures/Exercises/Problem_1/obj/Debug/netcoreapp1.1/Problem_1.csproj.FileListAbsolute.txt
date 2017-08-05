@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\bin\Debug\netcoreapp1.1\Problem_1.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\bin\Debug\netcoreapp1.1\Problem_1.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\bin\Debug\netcoreapp1.1\Problem_1.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\bin\Debug\netcoreapp1.1\Problem_1.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\bin\Debug\netcoreapp1.1\Problem_1.pdb
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\obj\Debug\netcoreapp1.1\Problem_1.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\obj\Debug\netcoreapp1.1\Problem_1.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\obj\Debug\netcoreapp1.1\Problem_1.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\Exercises\Problem_1\obj\Debug\netcoreapp1.1\Problem_1.pdb

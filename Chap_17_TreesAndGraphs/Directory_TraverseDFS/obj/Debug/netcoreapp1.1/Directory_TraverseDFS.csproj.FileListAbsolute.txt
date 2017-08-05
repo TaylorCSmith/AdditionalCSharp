@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\bin\Debug\netcoreapp1.1\Directory_TraverseDFS.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\bin\Debug\netcoreapp1.1\Directory_TraverseDFS.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\bin\Debug\netcoreapp1.1\Directory_TraverseDFS.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\obj\Debug\netcoreapp1.1\Directory_TraverseDFS.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\obj\Debug\netcoreapp1.1\Directory_TraverseDFS.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\bin\Debug\netcoreapp1.1\Directory_TraverseDFS.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\bin\Debug\netcoreapp1.1\Directory_TraverseDFS.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\obj\Debug\netcoreapp1.1\Directory_TraverseDFS.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Directory_TraverseDFS\obj\Debug\netcoreapp1.1\Directory_TraverseDFS.pdb

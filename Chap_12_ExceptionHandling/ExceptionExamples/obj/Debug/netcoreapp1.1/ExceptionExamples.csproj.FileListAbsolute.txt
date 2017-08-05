@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\bin\Debug\netcoreapp1.1\ExceptionExamples.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\bin\Debug\netcoreapp1.1\ExceptionExamples.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\bin\Debug\netcoreapp1.1\ExceptionExamples.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\obj\Debug\netcoreapp1.1\ExceptionExamples.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\obj\Debug\netcoreapp1.1\ExceptionExamples.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\bin\Debug\netcoreapp1.1\ExceptionExamples.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\bin\Debug\netcoreapp1.1\ExceptionExamples.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\obj\Debug\netcoreapp1.1\ExceptionExamples.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_12_ExceptionHandling\ExceptionExamples\obj\Debug\netcoreapp1.1\ExceptionExamples.pdb

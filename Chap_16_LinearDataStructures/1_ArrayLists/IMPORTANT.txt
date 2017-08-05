@@ -1,0 +1,1 @@
+As of Framework 4.0, ArrayList is no longer useable. A custom one has been made but using the ArrayList class itself is no more.

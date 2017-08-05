@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\bin\Debug\netcoreapp1.1\StringExamples.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\bin\Debug\netcoreapp1.1\StringExamples.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\bin\Debug\netcoreapp1.1\StringExamples.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\bin\Debug\netcoreapp1.1\StringExamples.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\bin\Debug\netcoreapp1.1\StringExamples.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\obj\Debug\netcoreapp1.1\StringExamples.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\obj\Debug\netcoreapp1.1\StringExamples.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\obj\Debug\netcoreapp1.1\StringExamples.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\StringExamples\obj\Debug\netcoreapp1.1\StringExamples.pdb

@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\bin\Debug\netcoreapp1.1\SystemEnvironmentPractice.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\bin\Debug\netcoreapp1.1\SystemEnvironmentPractice.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\bin\Debug\netcoreapp1.1\SystemEnvironmentPractice.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\bin\Debug\netcoreapp1.1\SystemEnvironmentPractice.dll
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\bin\Debug\netcoreapp1.1\SystemEnvironmentPractice.pdb
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\obj\Debug\netcoreapp1.1\SystemEnvironmentPractice.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\obj\Debug\netcoreapp1.1\SystemEnvironmentPractice.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\obj\Debug\netcoreapp1.1\SystemEnvironmentPractice.dll
+C:\Users\Taylo\Desktop\C# Practice\Misc\SystemEnvironmentPractice\obj\Debug\netcoreapp1.1\SystemEnvironmentPractice.pdb

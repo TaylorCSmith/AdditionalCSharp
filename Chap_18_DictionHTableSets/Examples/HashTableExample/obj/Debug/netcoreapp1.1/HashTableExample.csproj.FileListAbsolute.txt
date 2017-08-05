@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\bin\Debug\netcoreapp1.1\HashTableExample.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\bin\Debug\netcoreapp1.1\HashTableExample.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\bin\Debug\netcoreapp1.1\HashTableExample.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\obj\Debug\netcoreapp1.1\HashTableExample.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\obj\Debug\netcoreapp1.1\HashTableExample.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\bin\Debug\netcoreapp1.1\HashTableExample.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\bin\Debug\netcoreapp1.1\HashTableExample.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\obj\Debug\netcoreapp1.1\HashTableExample.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\HashTableExample\obj\Debug\netcoreapp1.1\HashTableExample.pdb

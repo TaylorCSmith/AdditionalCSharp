@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\bin\Debug\netcoreapp1.1\SortedDicEx.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\bin\Debug\netcoreapp1.1\SortedDicEx.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\bin\Debug\netcoreapp1.1\SortedDicEx.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\bin\Debug\netcoreapp1.1\SortedDicEx.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\bin\Debug\netcoreapp1.1\SortedDicEx.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\obj\Debug\netcoreapp1.1\SortedDicEx.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\obj\Debug\netcoreapp1.1\SortedDicEx.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\obj\Debug\netcoreapp1.1\SortedDicEx.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\SortedDicEx\obj\Debug\netcoreapp1.1\SortedDicEx.pdb

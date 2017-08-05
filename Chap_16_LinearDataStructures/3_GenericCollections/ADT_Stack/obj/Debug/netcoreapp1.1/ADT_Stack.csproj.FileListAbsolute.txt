@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\bin\Debug\netcoreapp1.1\ADT_Stack.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\bin\Debug\netcoreapp1.1\ADT_Stack.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\bin\Debug\netcoreapp1.1\ADT_Stack.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\bin\Debug\netcoreapp1.1\ADT_Stack.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\bin\Debug\netcoreapp1.1\ADT_Stack.pdb
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\obj\Debug\netcoreapp1.1\ADT_Stack.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\obj\Debug\netcoreapp1.1\ADT_Stack.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\obj\Debug\netcoreapp1.1\ADT_Stack.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Stack\obj\Debug\netcoreapp1.1\ADT_Stack.pdb

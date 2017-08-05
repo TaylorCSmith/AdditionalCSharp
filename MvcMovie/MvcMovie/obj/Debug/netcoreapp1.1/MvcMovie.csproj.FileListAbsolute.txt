@@ -1,0 +1,18 @@
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\Taylo\Desktop\C# Practice\MvcMovie\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.deps.json
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.json
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\bin\Debug\netcoreapp1.1\MvcMovie.pdb
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.dll
+C:\Users\Taylo\Desktop\MVC Web App\MvcMovie\obj\Debug\netcoreapp1.1\MvcMovie.pdb

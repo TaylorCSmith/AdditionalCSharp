@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\bin\Debug\netcoreapp1.1\Problem_Two.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\bin\Debug\netcoreapp1.1\Problem_Two.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\bin\Debug\netcoreapp1.1\Problem_Two.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\bin\Debug\netcoreapp1.1\Problem_Two.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\bin\Debug\netcoreapp1.1\Problem_Two.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\obj\Debug\netcoreapp1.1\Problem_Two.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\obj\Debug\netcoreapp1.1\Problem_Two.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\obj\Debug\netcoreapp1.1\Problem_Two.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_13_StringsAndTextProcessing\Exercises\Problem_Two\obj\Debug\netcoreapp1.1\Problem_Two.pdb

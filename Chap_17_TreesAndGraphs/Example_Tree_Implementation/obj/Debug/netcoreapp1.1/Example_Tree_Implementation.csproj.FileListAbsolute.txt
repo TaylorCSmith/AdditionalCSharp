@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\bin\Debug\netcoreapp1.1\Example_Tree_Implementation.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\bin\Debug\netcoreapp1.1\Example_Tree_Implementation.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\bin\Debug\netcoreapp1.1\Example_Tree_Implementation.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\bin\Debug\netcoreapp1.1\Example_Tree_Implementation.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\bin\Debug\netcoreapp1.1\Example_Tree_Implementation.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\obj\Debug\netcoreapp1.1\Example_Tree_Implementation.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\obj\Debug\netcoreapp1.1\Example_Tree_Implementation.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\obj\Debug\netcoreapp1.1\Example_Tree_Implementation.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_17_TreesAndGraphs\Example_Tree_Implementation\obj\Debug\netcoreapp1.1\Example_Tree_Implementation.pdb

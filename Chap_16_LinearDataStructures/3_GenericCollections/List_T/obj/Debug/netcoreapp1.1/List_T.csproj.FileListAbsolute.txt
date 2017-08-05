@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\bin\Debug\netcoreapp1.1\List_T.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\bin\Debug\netcoreapp1.1\List_T.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\bin\Debug\netcoreapp1.1\List_T.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\bin\Debug\netcoreapp1.1\List_T.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\bin\Debug\netcoreapp1.1\List_T.pdb
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\obj\Debug\netcoreapp1.1\List_T.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\obj\Debug\netcoreapp1.1\List_T.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\obj\Debug\netcoreapp1.1\List_T.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\List_T\obj\Debug\netcoreapp1.1\List_T.pdb

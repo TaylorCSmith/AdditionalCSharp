@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\bin\Debug\netcoreapp1.1\Ex1_DictDS.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\bin\Debug\netcoreapp1.1\Ex1_DictDS.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\bin\Debug\netcoreapp1.1\Ex1_DictDS.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\bin\Debug\netcoreapp1.1\Ex1_DictDS.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\bin\Debug\netcoreapp1.1\Ex1_DictDS.pdb
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\obj\Debug\netcoreapp1.1\Ex1_DictDS.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\obj\Debug\netcoreapp1.1\Ex1_DictDS.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\obj\Debug\netcoreapp1.1\Ex1_DictDS.dll
+C:\Users\Taylo\Desktop\C# Practice\Chap_18_DictionHTableSets\Examples\Ex1_DictDS\obj\Debug\netcoreapp1.1\Ex1_DictDS.pdb

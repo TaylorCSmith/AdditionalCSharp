@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\bin\Debug\netcoreapp1.1\ADT_Queue.deps.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\bin\Debug\netcoreapp1.1\ADT_Queue.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\bin\Debug\netcoreapp1.1\ADT_Queue.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\bin\Debug\netcoreapp1.1\ADT_Queue.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\bin\Debug\netcoreapp1.1\ADT_Queue.pdb
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\obj\Debug\netcoreapp1.1\ADT_Queue.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\obj\Debug\netcoreapp1.1\ADT_Queue.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\obj\Debug\netcoreapp1.1\ADT_Queue.dll
+C:\Users\Taylo\Desktop\C# Practice\Data Structures\3_GenericCollections\ADT_Queue\obj\Debug\netcoreapp1.1\ADT_Queue.pdb
