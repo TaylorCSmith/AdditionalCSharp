@@ -1,0 +1,14 @@
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\BankTest.deps.json
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\BankTest.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\BankTest.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\BankTest.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\BankTest.pdb
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\BankAccountNS.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\bin\Debug\netcoreapp1.1\BankAccountNS.pdb
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\obj\Debug\netcoreapp1.1\BankTest.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\obj\Debug\netcoreapp1.1\BankTest.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\obj\Debug\netcoreapp1.1\BankTest.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankTest\obj\Debug\netcoreapp1.1\BankTest.pdb

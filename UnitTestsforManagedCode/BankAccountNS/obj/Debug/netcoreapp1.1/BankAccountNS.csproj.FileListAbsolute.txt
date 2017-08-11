@@ -1,0 +1,9 @@
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\bin\Debug\netcoreapp1.1\BankAccountNS.deps.json
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\bin\Debug\netcoreapp1.1\BankAccountNS.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\bin\Debug\netcoreapp1.1\BankAccountNS.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\bin\Debug\netcoreapp1.1\BankAccountNS.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\bin\Debug\netcoreapp1.1\BankAccountNS.pdb
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\obj\Debug\netcoreapp1.1\BankAccountNS.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\obj\Debug\netcoreapp1.1\BankAccountNS.AssemblyInfo.cs
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\obj\Debug\netcoreapp1.1\BankAccountNS.dll
+C:\Users\Taylo\Desktop\C# Practice\UnitTestsforManagedCode\BankAccountNS\obj\Debug\netcoreapp1.1\BankAccountNS.pdb

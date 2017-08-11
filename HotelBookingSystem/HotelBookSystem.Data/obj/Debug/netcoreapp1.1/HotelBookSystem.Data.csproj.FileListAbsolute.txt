@@ -1,0 +1,6 @@
+C:\Users\Taylo\Desktop\C# Practice\HotelBookingSystem\HotelBookSystem.Data\bin\Debug\netcoreapp1.1\HotelBookSystem.Data.deps.json
+C:\Users\Taylo\Desktop\C# Practice\HotelBookingSystem\HotelBookSystem.Data\bin\Debug\netcoreapp1.1\HotelBookSystem.Data.runtimeconfig.json
+C:\Users\Taylo\Desktop\C# Practice\HotelBookingSystem\HotelBookSystem.Data\bin\Debug\netcoreapp1.1\HotelBookSystem.Data.runtimeconfig.dev.json
+C:\Users\Taylo\Desktop\C# Practice\HotelBookingSystem\HotelBookSystem.Data\bin\Debug\netcoreapp1.1\HotelBookSystem.Data.dll
+C:\Users\Taylo\Desktop\C# Practice\HotelBookingSystem\HotelBookSystem.Data\obj\Debug\netcoreapp1.1\HotelBookSystem.Data.csprojResolveAssemblyReference.cache
+C:\Users\Taylo\Desktop\C# Practice\HotelBookingSystem\HotelBookSystem.Data\obj\Debug\netcoreapp1.1\HotelBookSystem.Data.AssemblyInfo.cs
