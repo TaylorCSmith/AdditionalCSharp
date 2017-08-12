@@ -22,7 +22,7 @@ namespace AceOfSpadesPizza.Controllers
 
         public IActionResult Contact()
         {
-            ViewData["Message"] = "Your contact page.";
+            ViewData["Message"] = "Feel free to contact me if you have any questions";
 
             return View();
         }
