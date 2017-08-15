@@ -1,5 +1,6 @@
 ﻿using RLNET;
 using RogueLikeGame.Core;
+using RogueLikeGame.System;
 
 namespace RogueLikeGame
 {
@@ -30,8 +31,14 @@ namespace RogueLikeGame
         private static readonly int _inventoryHeight = 11;
         private static RLConsole _inventoryConsole;
 
+        public static DungeonMap DungeonMap { get; private set; }
+
         public static void Main()
         {
+
+            MapGenerator mapGenerator = new MapGenerator(_mapWidth, _mapHeight);
+            DungeonMap = mapGenerator.CreateMap();
+
             string fontFileName = "terminal8x8.png";
             string consoleTitle = "RougeLikeGame - Level 1";
 
@@ -70,6 +77,7 @@ namespace RogueLikeGame
             RLConsole.Blit(_messageConsole, 0, 0, _messageWidth, _messageHeight, _rootConsole, 0, _screenHeight - _messageHeight);
             RLConsole.Blit(_inventoryConsole, 0, 0, _inventoryWidth, _inventoryHeight, _rootConsole, 0, 0);
 
+            DungeonMap.Draw(_mapConsole);
             _rootConsole.Draw();
         }
     }
