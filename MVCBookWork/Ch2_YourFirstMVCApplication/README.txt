@@ -1,0 +1,3 @@
+SUMMARY OF CHAPTER FROM BOOK: 
+
+In this chapter, I created a new MVC project and used it to construct a simple MVC data-entry application, giving you a first glimpse of the MVC Framework architecture and approach. I skipped over some key features (including Razor syntax, routing, and automated testing), but I come back to these topics in depth in later chapters. In the next chapter, I describe the MVC architecture, design patterns, and techniques that I use throughout the rest of this book and which form the foundation for effective development with the MVC Framework.

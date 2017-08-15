@@ -1,0 +1,2 @@
+﻿
+Per Convention, static content in an MVC project is placed into a folder called Content.

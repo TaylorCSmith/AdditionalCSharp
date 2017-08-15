@@ -1,4 +1,4 @@
-Straight from book: 
+Summary straight from book: 
 
 In this chapter, I explained the context in which the MVC Framework exists and how it compares to Web Forms.
 I described the benefits of using the MVC framework, the structure of this book and the software that you will require

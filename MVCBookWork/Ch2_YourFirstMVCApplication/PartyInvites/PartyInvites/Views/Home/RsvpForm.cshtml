@@ -1,0 +1,90 @@
+﻿<!-- atmodel makes view a strongly typed view... -->
+<!-- A strongly typed view is inteded to ernder a specific domain type -->
+
+@model PartyInvites.Models.GuestResponse
+
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <link href="~/Content/bootstrap.css" rel="stylesheet" />
+    <link href="~/Content/bootstrap-theme.css" rel="stylesheet" />
+    <meta name="viewport" content="width=device-width" />
+    <link href="~/Content/Styles.css" rel="stylesheet" type="text/css"/>
+    <title>RsvpForm</title>
+</head>
+<body>
+    <div class="panel panel-success">
+        <div class="panel-heading text-center"><h4>RSVP</h4></div>
+        <div class="panel-body">
+            <!-- BeginForm is another HTML helper method... generates an HTML form
+                element configured to post back to the action method...-->
+
+            @using (Html.BeginForm())
+            {
+                <!-- Creates a hidden list item as a placeholder if there are no errors... refer to
+                    official documentation for more on html.validationsummary()-->
+                @Html.ValidationSummary()
+
+                <div class="form-group">
+                    <label>Your Name:</label>
+                    @Html.TextBoxFor(x => x.Name, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Your Email:</label>
+                    @Html.TextBoxFor(x => x.Email, new { @class = "form-control" })
+                </div>
+                <div class="form-group">
+                    <label>Your Phone:</label>
+                    @Html.TextBoxFor(x => x.Phone, new { @class = "form-control" })
+                </div>
+
+                <div class="form-group">
+                    <label>Will you attend?</label>
+                    @Html.DropDownListFor(x => x.WillAttend, new[]
+                {
+                   new SelectListItem() {Text = "Yes, I'll be there",
+                   Value = bool.TrueString },
+                   new SelectListItem() {Text = "No, I can't come",
+                   Value = bool.FalseString }
+               }, "Choose an option", new { @class = "form-control" }) <!-- example of C# anonymous type feature -->
+                </div>
+
+                <div class="text-center">
+                    <input class="btn btn-success" type="submit" value="Submit RSVP" />
+                </div>
+            }
+
+<!-- ********************** REPLACED BY BOOTSTRAP ****************************** -->
+                <!--TextBoxFor helper method generates the HTML for an input element, sets the id
+                    and name attributes to the selected domain class property...
+                    works because Rsvpform view is strongly typed so MVC knows that
+                    GuestResponse is the type that I want to render with this view-->
+
+                <!--
+                <p>Your name: "at"Html.TextBoxFor(x => x.Name) </p>
+                <p>Your email: "at"Html.TextBoxFor(x => x.Email) </p>
+                <p>Your phone: "at"Html.TextBoxFor(x => x.Phone)</p>
+                <p>
+                    "at" Html.DropDownListFor(x => x.WillAttend, new[]
+            {
+               new SelectListItem() {Text = "Yes, I'll be there",
+                    Value = bool.TrueString},
+               new SelectListItem() {Text = "No, I can't come",
+                    Value = bool.FalseString}
+                }, "Choose an option")
+                </p>
+                <input type="submit" value="Submit RSVP" />
+            }-->
+
+<!-- ************************************************************************** -->
+            <div>
+            </div>
+        </div>
+    </div>
+</body>
+</html>
