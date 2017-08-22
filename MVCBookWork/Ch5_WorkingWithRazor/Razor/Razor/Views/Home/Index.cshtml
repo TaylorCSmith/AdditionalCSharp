@@ -1,0 +1,27 @@
+﻿
+<!-- declares the view model using type 'at'model (lower case m) and 
+    access the Name peroperty using 'at'Model (upper case m)-->
+@model Razor.Models.Product
+
+<!-- below is an example of a code block... it allows you to include C# statements in a view 
+    statements contained in code block are evaluated when view is rendered -->
+@{
+    ViewBag.Title = "Product Name";
+    // If you do not want to use a layout at all, you need to set it to null... 
+    // you cannot just delete the layout from here... if there is no specified layout
+    // the MVC framework will assume that you want to use the _ViewStart file
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Index</title>
+</head>
+<body>
+    <div> 
+        @Model.Name
+    </div>
+</body>
+</html>

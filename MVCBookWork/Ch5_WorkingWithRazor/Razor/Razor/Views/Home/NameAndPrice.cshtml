@@ -1,0 +1,11 @@
+﻿@model Razor.Models.Product
+
+@{
+    ViewBag.Title = "NameAndPrice";
+    Layout = "~/Views/_BasicLayout.cshtml";
+}
+
+<h2>NameAndPrice</h2>
+The product name is @Model.Name and it costs $@Model.Price
+<!-- the 'at'Model expression in the view was used to get the value of the
+    properties that were passed from the controller -->
