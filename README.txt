@@ -12,3 +12,5 @@ CONTENTS:
   * WebAppEmpty - ASP.NET MVC App that follows a tutorial from code project written by Vincent Durano
 
 Note 1: Most mvc projects are currently on hold while I work my way through a book to have a more in depth understanding than can be provided by a brief tutorial. Book is called Pro ASP.NET MVC 5 by Adam Freeman
+
+8/22/2017 - Currently taking a break from the MVC Book in order to apply the concepts I've learned so far to another project... possibly the AceOfSpadesPizza web app... Going to be setting up my website/blog first... so that I can track my development as well as anyone who's interested for some reason. 
