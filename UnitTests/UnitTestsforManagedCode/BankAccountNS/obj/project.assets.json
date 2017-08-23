@@ -7042,10 +7042,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj",
+      "projectUniqueName": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj",
       "projectName": "BankAccountNS",
-      "projectPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj",
-      "outputPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankAccountNS\\obj\\",
+      "projectPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj",
+      "outputPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankAccountNS\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"

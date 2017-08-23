@@ -8510,10 +8510,10 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankTest\\BankTest.csproj",
+      "projectUniqueName": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankTest\\BankTest.csproj",
       "projectName": "BankTest",
-      "projectPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankTest\\BankTest.csproj",
-      "outputPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankTest\\obj\\",
+      "projectPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankTest\\BankTest.csproj",
+      "outputPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankTest\\obj\\",
       "projectStyle": "PackageReference",
       "originalTargetFrameworks": [
         "netcoreapp1.1"
@@ -8521,8 +8521,8 @@
       "frameworks": {
         "netcoreapp1.1": {
           "projectReferences": {
-            "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj": {
-              "projectPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj"
+            "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj": {
+              "projectPath": "C:\\Users\\Taylo\\Desktop\\C# Practice\\UnitTests\\UnitTestsforManagedCode\\BankAccountNS\\BankAccountNS.csproj"
             }
           }
         }
