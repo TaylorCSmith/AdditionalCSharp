@@ -1,9 +1,0 @@
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\bin\Debug\netcoreapp1.1\AceOfSpadesPizza.deps.json
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\bin\Debug\netcoreapp1.1\AceOfSpadesPizza.runtimeconfig.json
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\bin\Debug\netcoreapp1.1\AceOfSpadesPizza.runtimeconfig.dev.json
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\bin\Debug\netcoreapp1.1\AceOfSpadesPizza.dll
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\obj\Debug\netcoreapp1.1\AceOfSpadesPizza.csprojResolveAssemblyReference.cache
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\obj\Debug\netcoreapp1.1\AceOfSpadesPizza.AssemblyInfo.cs
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\bin\Debug\netcoreapp1.1\AceOfSpadesPizza.pdb
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\obj\Debug\netcoreapp1.1\AceOfSpadesPizza.dll
-C:\Users\Taylo\Desktop\C# Practice\AceOfSpacesPizza\AceOfSpadesPizza\obj\Debug\netcoreapp1.1\AceOfSpadesPizza.pdb
