@@ -3,7 +3,7 @@ CONTENTS:
   * AceOfSpadesPizza - ASP.NET MVC App for pizza deliveries (Guidelines given) (Note 1)
   * CSharp_Book_Work - Collection of examples/completed problems from the book "Fundamentals of Computer Programming with CSharp (Example code given, problems done independently)
   * HotelBookingSystem - ASP.NET MVC App for Hotel bookings (topic given, dont independently) (Note 1)
-  * Mist - Random collection on different projects that were too small to have their own folder devoted to them 
+  * Misc - Random collection on different projects that were too small to have their own folder devoted to them 
   * Multi-Threading - Collection of different projects focused on multithreading, currently only includes a MSDN Tutorial
   * MvcMovie - ASP.NET MVC App that contains a database of movies and basic UI (followed MSDN tut) (Note 1)
   * MVCBookWork - Contains work from the book Pro ASP.NET MVC 5 by Adam Freeman (Current focus) 
